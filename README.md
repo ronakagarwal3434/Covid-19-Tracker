@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Website Preview
-![Preview](https://github.com/ronakagarwal3434/Covid-19-Tracker/blob/master/public/Screenshot 2021-02-10 at 1.02.06 PM.png?raw=true)
+![Preview](https://github.com/ronakagarwal3434/Covid-19-Tracker/blob/master/public/preview.png?raw=true)
 
 ## Available Scripts
 
